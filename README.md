@@ -6,7 +6,6 @@ Hangman is a classic word-guessing game where the player tries to guess a hidden
 
 Connect with me on social media and stay updated on my coding journey:
 
-- CodeWars: [CodeWars](https://www.codewars.com/users/Raciod)
 - GitHub: [GitHub](https://github.com/raciod)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/raciod/)
 - Twitter: [Twitter](https://twitter.com/Rac_iod)
